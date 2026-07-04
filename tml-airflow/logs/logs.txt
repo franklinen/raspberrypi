@@ -12885,3 +12885,5 @@ Configure a credential helper to remove this warning. See
 https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 
 Login Succeeded
+✅ PIPELINE COMPLETE: frank19831207/myawesometmlsolution-5e37-amd64 has been processed successfully.
+=============================================================
